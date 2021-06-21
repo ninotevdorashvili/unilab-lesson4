@@ -1,0 +1,40 @@
+@import url("https://cdn.web-fonts.ge/fonts/alk-life/css/alk-life.min.css");
+.text-block {
+    width: 929px;
+    display: inline-block;
+    vertical-align: top;
+}
+.article1 {
+    margin-top: 54px;
+    margin-left: 43px;
+}
+.title1 {
+    font-family: "ALK Life", sans-serif;
+    font-size: 20px;
+    margin-bottom: 16px;
+}
+.text1 {
+    font-family: "ALK Life", sans-serif;
+    font-size: 16px;
+    margin-bottom: 58px;
+}
+.text2 {
+    font-family: 'ALK Sanet';
+    font-size: 16px;
+}
+.article2 {
+    margin-top: 155px;
+    margin-left: 43px;
+}
+.title2 {
+    margin-bottom: 16px;
+}
+.text3 {
+    font-family: 'Big Shoulders Stencil Display';
+    font-size: 16px;
+    margin-bottom: 58px;
+}
+.text4 {
+    font-family: 'Benne', serif;
+    font-size: 16px;
+}
